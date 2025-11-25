@@ -1,0 +1,1 @@
+mkdir -p Departemen/{Marketing,Engineering,HR}/{documents,archives}
